@@ -70,6 +70,24 @@ html {
   }
 }
 
+/* Sidebar img */
+
+.sidebar img {
+  position: relative;
+  left: 25%;
+  width: 50%;
+  text-align: center;
+}
+@media (min-width: 48rem) {
+  .sidebar img {
+    position: static;
+    padding: 0rem 0rem;
+    left: 1rem;
+    width: 14rem;
+    text-align: left;
+  }
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
