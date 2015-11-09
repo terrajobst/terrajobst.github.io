@@ -8,6 +8,10 @@ layout: default
   {{ content }}
 </div>
 
+{% comment %}
+
+At this point, I'm not interested in related posts.
+
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -23,3 +27,9 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+{% endcomment %}
+
+{% if page.comments == true %}
+  {% include disqus.html %}
+{% endif %}
