@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to my blog. I'm Immo Landwerth. I work as a Program Manager on the .NET team at Microsoft. Don't be too impressed: I'm neither a programmer nor a manager. I use Outlook, PowerPoint, Excel and sometimes Visual Studio to convince folks I know what developers want.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+When I'm not annoying my co-workers with ideas on how we could make .NET a kick-ass platform I'm...well, there is not much time left because I even do this in my spare time. Program Manager at work, coder in my spare time. If you want to know what keeps me awake, check out my [GitHub profile](https://github.com/terrajobst).
 
-There are currently two themes built on Poole:
+## Why a blog?
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+> Just do it. You write for you first, people second. -- [James](https://twitter.com/debugthings/status/661993057529688065)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Like James I'm a selfish narcissist so I blog as an intellectual form of masturbation. Jokes aside, writing is *the* way to structure your thoughts. But it's easy to get trapped in your own preconceptions. The cure is feedback, which requires making your thoughts public.
 
-## Setup
+I ponder whether I can keep up with blogging but I found some [excellent advice from Adam Ralph](http://adamralph.com/2015/09/28/blog-equals-weblog):
 
-Some fun facts about the setup of this project include:
+> This is my personal blog. I am not using it to sell services or convey a corporate message. It should be personal, even if it does have a general theme, such as software development. There's no reason I can't write posts in an informal or conversational style. There is no reason a post can't be short. A few mistakes here and there? Who cares? 
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+So be it. Let's see where this leads.
