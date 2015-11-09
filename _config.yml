@@ -7,7 +7,7 @@ gems:			  [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Immo's Blog
+title:            terrajobst
 tagline:          'Thoughts & Ideas'
 description:      'Father. Husband. Coder. Microsoftie.'
 url:              http://immo.landwerth.net
