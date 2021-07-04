@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Git acquired taste?
+description: Discussion on Git why I think some people love it while others hate it
 comments: true
 ---
 
